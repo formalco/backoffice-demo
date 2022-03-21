@@ -11,6 +11,6 @@ pycodestyle==2.8.0
 six==1.16.0
 toml==0.10.2
 Werkzeug==2.0.2
-waitress==2.0.0
+waitress==2.1.1
 gunicorn
 formal-sqlcommenter==1.0.6
